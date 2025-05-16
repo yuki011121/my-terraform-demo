@@ -4,4 +4,5 @@ provider "google" {
   credentials = file(var.credentials_file)
   //test 
   //test 5/15/2025 update
+  //
 }
