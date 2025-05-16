@@ -3,6 +3,6 @@ provider "google" {
   region      = var.region
   credentials = file(var.credentials_file)
   //test 
-  //test 5/15/2025 update
+  //test 5/16/2025 update
   //
 }
